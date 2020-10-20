@@ -1,0 +1,2 @@
+C:\Users\Zach\source\repos\ProductsApp\StoreApp\obj\Debug\StoreApp.Tests.csprojAssemblyReference.cache
+C:\Users\Zach\source\repos\ProductsApp\StoreApp\obj\Debug\StoreApp.Tests.csproj.CoreCompileInputs.cache
